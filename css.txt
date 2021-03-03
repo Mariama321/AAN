@@ -1,0 +1,104 @@
+<table class="md" border="1" cellspacing="0" width="70%"  >
+	 			    <tr>
+	 				<th rowspan="6"><img src="C:\IAGE L1 ISI\HTML CSS\dev1 iage g1\téléchargement.jfif" width="100%"></th>
+	 				<tr>
+	 				<td><b>Année académique:</b></td><td><b>2019/2020</b></td>
+	 				<th class="aan" rowspan="2">Bulletin de notes<br>Semestre 1</th>
+                    </tr>
+                    <tr>
+	 				<td><b>Matricule:</b></td>
+	 				<td><b>411-19-6371/ISI</b></td>
+	 			    </tr>
+	 				
+	 				<tr>
+	 				<td><b>Prénom et nom:<b/></td>
+	 				<td colspan="2"><b><mark>mariama diack</mark></b></td>
+	 			    </tr>
+	 				
+	 				<tr>
+	 				<td><b>Sexe:</b></td>
+	 				<td colspan="2"><b>Féminin</b></td>
+	 			    </tr>
+	 			    <tr>
+	 				<td><b>Date et lieu de naissance:</b></td>
+	 				<td colspan="2"><b>03/10/<mark class="boo">2000</mark>Dakar</b></td>
+	 			    </tr>
+	 			    	<tr>
+	 			    		<th><u>Domaine</u><br>Sciences et Technologies</th>
+	 			    		<th><u>Mention</u><br>Informatique</th>
+	 			    		<th><u>Spécialité</u><br>Génie logiciel</th>
+	 			    		<th><u>Grade</u><br>Master</th>
+	 			    	</tr>
+	 			    </table> <br>
+	 			    <table class="AK" border="1" cellspacing="0" width="70%">
+	 			    		<tr>
+	 			    			<td width="35%"><b>UE  Elements constitutifs<b></td>
+	 			    			<th>MCC<br>40%</th>
+	 			    			<th>Examen <br>60%</th>
+	 			    			<th>Rattrap <br>100%</th>
+	 			    			<th>MOY<br>EC</th>
+	 			    			<th>Coef<br>EC</th>
+	 			    			<th>Moyenne <br>Coef  </th>
+	 			    			<th>Crédit <br>EC</th>
+	 			    			<th> Moyenne <br>UE</th>
+	 			    			<th>Appréciation</th>
+	 			    		</tr>
+	 			    		<tr>
+	 			    			<td colspan="10"><b>CGE2104 Connaissances générales<b></td>
+	 			    		</tr>
+	 			    	
+                            <tr>
+	 			    			<td><b>Anglais</b></td>
+	 			    			<th>14,00</th>
+	 			    			<th>15,00</th>
+	 			    			<th> </th>
+	 			    			<th>14,60</th>
+	 			    			<th>2,00</th>
+	 			    			<th>29,20</th>
+	 			    			<th rowspan="3"></th>
+	 			    			<th rowspan="3"></th>
+	 			    			<th>Bien</th>
+	 			    		</tr>
+	 			    		<tr>
+	 			    			<td><b>Communication professionnelle</b></td>
+	 			    			<th>11,00</th>
+	 			    			<th>11,00</th>
+	 			    			<th> </th>
+	 			    			<th>11,60</th>
+	 			    			<th>2,00</th>
+	 			    			<th>22,20</th>
+	 			    			<th>Passable</th>
+	 			    		</tr>
+	 			    		<tr>
+	 			    		<td><b>Décisions Financières</b></td>
+	 			    			<th>16,00</th>
+	 			    			<th>11,00</th>
+	 			    			<th> </th>
+	 			    			<th>13,60</th>
+	 			    			<th>2,00</th>
+	 			    			<th>26,20</th>
+	 			    			<th>Assez bien</th>
+	 			    		</tr>
+	 			    		<tr>
+	 			    			<td colspan="6"></td>
+	 			    			<th><a href="@" class="moy">77,20</a></th>
+                                <th><a href="@" class="moy">7,00</a></th>
+                                <th><a href="@" class="moy">12,867</a></th>
+                                <th><a href="@" class="moy">Validée</a></th>
+                            </tr>
+
+
+	 			    			
+
+
+
+
+	 			    		
+
+	 				
+
+
+	</table>
+
+</body>
+</html>

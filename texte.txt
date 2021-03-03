@@ -1,0 +1,43 @@
+<! DOCTYPE HTML >
+<html>
+      <head>
+	       <!-- Entete de la page -->
+		   <title> Devoir</title>
+	  </head>
+	  
+	  <body>
+           <!-- Corps de la page -->
+		   <P> <u><b> <center><big>TP1 HTML</big></center> </b></u> </p>
+		   <P> <u><b> <center><big>INSTITUT SUPERIEUR D'INFORMATIQUE</big></center> </b></u> </p>
+		   <br>
+		   <p><small><b>Nom et prénom: DIACK Mariama &nbsp&nbsp&nbsp&nbspAdresse: Cité Ainoumady 3</b> </small> </p>
+		   <br>
+		   <p><small><b>Code postal: 1300&nbsp&nbsp&nbsp&nbspTelephone: 76-457-67-40 <small></b></p>
+		   </br>
+		       
+			     <center><img src="C:\Users\ALIOU\Pictures\téléchargement.png"></center>
+				 <p> <big> <big><b>L’ISI</b>, est un établissement d’enseignement supérieur dont le projet pédagogique permet de transmettre la pluralité des 
+        savoirs et les clés de lecture d’un monde fluide pour les futurs cadres.
+        Notre mission est de bien former les futurs leaders, mais aussi, d’accompagner les étudiants issus de l’ensemble de la 
+        population afin que chacun d’eux  puisse avoir la chance de devenir un manager.
+        Agréé et reconnu par l’état, l’ISI se positionne comme leader dans le domaine de la formation au Sénégal et vous forme
+         dans les meilleures conditions, afin que vous puissiez intégrer le tissu économique sénégalais en particulier et africain 
+         en général, conformément à notre crédo, former et bien former.
+		 <p>
+       
+        Situé au km1 avenue cheikh Anta Diop,l’institut supérieur d’informatique ISI , est sous la tutelle du Ministère
+         de l’Enseignement Supérieur privé qui est signataire de tous les diplômes délivrés, sous le contrôle de l’ANAQ-Sup.
+        L’ISI, contribue depuis <strike>plus de 27 ans à la formation des jeunes cadres africains</strike>.<p>
+        
+        Avec une offre de formation diversifiée dans les métiers d’avenir, une innovation permanente de ses programmes,
+         et les brillants résultats obtenus aux différents examens et concours, <b><mark><i>L’Institut Supérieur d’informatique</i></mark></b> » ISI » 
+         est leader dans son domaine au Sénégal et dans la sous-région.</big></big> </p>
+		 
+		 <p>CU<sup>2+</sup>+ Y<sup>3*</sup>=1 &nbsp &nbsp H<sub>-1</sub>O + CO<sub>2</sub>=0</p>
+				<br>
+			    <p>CU<sup>2+</sup> + Y<sup>3*</sup>=1 &nbsp &nbsp H<sub>-1</sub>O + CO<sub>2</sub>=0</p>
+				
+				<p><font style="line-height:5px;"><tt>GROUPE ISI est un institut delocalisé en Afrique et à l'intérieur du Sénégal.</tt></font></p>
+	      <tt> <p><font style="line-height:5px;">Il offre un esemble d'écoles et de centres.</font></p></tt>
+		   <b><hr align="center" width="30%" size=2 ></b>
+		   &nbsp

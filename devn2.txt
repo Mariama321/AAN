@@ -1,0 +1,109 @@
+<section>
+
+            <div class="Dip10">
+
+                <div>
+
+                      <p><b>Get In Touch</b></p>
+
+                    <p>Si mon profil vous intéresse vous pouvez me joindre à travers</p><p>les cordonnées suivantes,mes respectueuses salutations.</p><br>
+
+ 
+
+                   <table border="0" cellpadding="0" cellspacing="0">
+
+                                      <tr>
+
+                                             <td rowspan="2" ><img src="C:\Users\hp\OneDrive\Bureau\uyy\télécharger (3).jpg" width="80px" height="80px"></td>
+
+                                             <td>Name</td>
+
+                                                                  </tr>
+
+ 
+
+                                      <tr>
+
+                                            <td>Mouhamadou Lamine Dial</td>
+
+                                       </tr>
+
+ 
+
+                                      <tr>
+
+                                           <td rowspan="2"><img src="C:\Users\hp\OneDrive\Bureau\uyy\OIP (3).jpg" width="80px" height="80px"></td>
+
+                                           <td>Adresse</td>
+
+                                                           </tr>
+
+ 
+
+                                      <tr>
+
+                                           <td>Dieuppeul3</td>
+
+                                      </tr>
+
+ 
+
+                                      <tr>
+
+                                           <td rowspan="2"><img src="C:\Users\hp\OneDrive\Bureau\uyy\OIP (4).jpg "width="80px" height="80px"></td>
+
+                                           <td>Email</td>
+
+                                      </tr>
+
+ 
+
+                                      <tr>
+
+                                           <td>dialmouhamed139@gmail.com</td>
+
+                                      </tr>
+
+ 
+
+                                      </table>
+
+                 </div>
+
+                 
+
+ 
+
+                <div class="Formulaire">&emsp;&emsp;&emsp;<b>Message Me </b><br><br>
+
+                      <form>
+
+                                                  <input type="text" name="Name" placeholder="Name">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<input type="email" name="email" placeholder="Email">
+
+                                            </br>
+
+                               
+
+                                            <input type="text" name="Subject" placeholder="Subject">
+
+                                            </br>
+
+                                         
+
+                                                  <textarea rows="6" cols="30" id="describe" name="describe" placeholder="Describe"></textarea><br>
+
+                                 
+
+                                            </br>
+
+ 
+
+                                     <a href="" class="mess">SEND MESSAGE</a>
+
+                   </form>
+
+               </div>
+
+                 
+
+          </div>

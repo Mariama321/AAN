@@ -1,0 +1,40 @@
+.h: hover{
+			background-color: orange;
+			color: black;
+}
+
+.a{
+	background-color: pink;
+	text-align: right;
+	padding: 5px;
+
+}
+.r{
+	background-color: black;
+	padding: 5px;
+	border-radius: 10px;
+	text-align: center;
+}
+.w{
+	color:white;
+	padding: 5px;
+	text-align: center;
+}
+.v{
+	background-color: pink;
+	border-radius: 10px;
+	padding: 5px;
+	text-align: center;
+}
+.o{
+	background-color:  orange;
+	border-radius: 10px;
+	padding: 5px;
+	text-align: left;
+}
+.m{
+	background-color: brown;
+	border-radius: 10px;
+	padding: 5px;
+
+}

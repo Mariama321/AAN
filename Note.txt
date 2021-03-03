@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<table border="1px">
+		<tr>
+			<td><h4>Matiere</h4></td>
+			<td><h4>Classe</h4></td>
+			<td><h4>Prof</h4></td>
+			<td><h4>Nombre d'heure</h4></td>
+			<td><h4>Année</h4></td>
+		</tr>
+				<tr>
+					<td><h4>Algorithme</h4></td>
+					<td colspan="2"><h4>Liage</h4></td>
+					<td><h4>2H</h4></td>
+					<td rowspan="3"><h4>2019/2020</h4></td>
+				</tr>
+						<tr>
+					<td rowspan="2"><h4>HTML/CSS</h4></td>
+					<td ><h4>Gl</h4></td>
+					<td><h4>LO</h4></td>
+					<td><h4>3H</h4></td>
+				</tr>
+							<tr>
+							<td ><h4>PHP</h4></td>
+							<td ><h4>AICHA</h4></td>
+							<td ><h4>3H</h4></td>
+				
+					</tr>
+				<tr>
+							<td colspan="3"><h4>AUDIO</h4></td>
+							<td colspan="2" rowspan="2"><h4>IMAGE</h4></td>
+					</tr>
+							<tr>
+							<td colspan="2">
+							<ul >
+								<li>ISI DAKARS</li>
+								<li>ISI KMS</li>
+								<li>ISI KAOLACK</li>
+
+							</ul>
+							</td>
+							
+								<td ><h4>@By Makhmadane lo</h4></td>
+							
+					</tr>
+
+					
+
+
+</table>
+</body>
+</html>

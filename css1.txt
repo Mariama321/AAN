@@ -1,0 +1,27 @@
+.md{
+	background-color: blue;
+	color:black;
+}
+.aan{
+	background-color: black;
+	color: white;
+}
+.AK{
+	background-color: brown;
+	color: white;
+}
+mark{
+	background-color: black;
+}
+a{
+	text-decoration: none;
+	color:white;
+	
+}
+table{
+	font-size: 20px;
+}
+.moy:hover{
+	background-color: black;
+	color:white;
+}
